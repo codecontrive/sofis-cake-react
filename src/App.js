@@ -13,7 +13,7 @@ function App() {
     <>
       <Row className={styles.BackgroundPattern}></Row>
       <Container fluid className={styles.AppContainer}>
-        {/* <Header /> */}
+        <Header />
         <Router>
           <Switch>
             <Route path="/" exact>
