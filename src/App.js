@@ -1,6 +1,6 @@
 import React from "react";
 
-import { Row, Col, Button, Container } from "react-bootstrap";
+import { Row, Container } from "react-bootstrap";
 
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
